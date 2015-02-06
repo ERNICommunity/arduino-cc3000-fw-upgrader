@@ -18,6 +18,6 @@ set ProjectHome=%SCRIPT_DIR%
 set WorkspaceDir=%ProjectHome%\workspace
 set ThisProjTools=%ProjectHome%\tools
 
-%ThisProjTools%\eclipseArduino\eclipsec.exe -data %WorkspaceDir% -nosplash --launcher.suppressErrors -application org.eclipse.cdt.managedbuilder.core.headlessbuild -cleanBuild arduino-cc3000-fw-upgrader -vmargs -Dorg.eclipse.cdt.core.console=org.eclipse.cdt.core.systemConsole %Vm-args%
+%ThisProjTools%\eclipseArduino\eclipsec.exe -data %WorkspaceDir% -nosplash --launcher.suppressErrors -application org.eclipse.cdt.managedbuilder.core.headlessbuild -cleanBuild arduino_cc3000_fw_upgrader -vmargs -Dorg.eclipse.cdt.core.console=org.eclipse.cdt.core.systemConsole %Vm-args%
 
 EXIT /B %ERRORLEVEL%
