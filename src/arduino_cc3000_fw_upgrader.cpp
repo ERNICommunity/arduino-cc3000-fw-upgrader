@@ -46,7 +46,7 @@
 
 #include "utility/debug.h"
 #include "utility/nvmem.h"
-#include "driverpatchinc_1_13.h"
+#include "driverpatchinc_1_14.h"
 
 #define ADAFRUIT_CC3000_IRQ   3  // MUST be an interrupt pin!
 #define ADAFRUIT_CC3000_CS    13

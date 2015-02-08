@@ -32,9 +32,9 @@
 			<locationURI>virtual:/virtual</locationURI>
 		</link>
 		<link>
-			<name>driverpatch_1_13</name>
+			<name>driverpatch_1_14</name>
 			<type>2</type>
-			<locationURI>arduino_cc3000_fw_upgraderdriverpatch_1_13/driverpatch_1_13</locationURI>
+			<locationURI>arduino_cc3000_fw_upgraderdriverpatch_1_14/driverpatch_1_14</locationURI>
 		</link>
 		<link>
 			<name>Libraries/SPI</name>
